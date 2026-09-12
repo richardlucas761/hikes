@@ -1,0 +1,2 @@
+# hikes
+Information on hikes.
