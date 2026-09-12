@@ -13,6 +13,7 @@
 |Hope to Edale|8.7 mi|3 hrs 35 min|1581 ft|[Link](https://hiiker.app/hikes/users/hope-to-edale--1565592383)|
 |Whatstandwell to Matlock|7.2 mi|3 hrs 2 min|1424 ft|[Link](https://hiiker.app/hikes/users/whatstandwell-to-matlock--1628637913)|
 |Ilam|7.2 mi|2 hrs 44 min|810 ft|[Link](https://hiiker.app/hikes/users/ilam--645354822)|
+|Belper Circular|6.4 mi|2 hrs 30 min|850 ft|[Link](https://hiiker.app/hikes/users/belper-circular--1182592853)|
 
 ## Others
 
