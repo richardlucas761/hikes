@@ -7,6 +7,7 @@
 |Cromford to Middleton Top and back via Black Rocks|8.6 mi|3 hrs 17 min|1070ft|[Link](https://hiiker.app/hikes/users/cromford-to-middleton-top-and-back-via-black-rocks--1170639476)|
 |Castleton circular via Mam Tor and Lose Hill|6.6 mi|2 hrs 49 min|1398 ft|[Link](https://hiiker.app/hikes/users/castleton--205521623)|
 |Snake Woodland Hope Valley circular|8.6 mi|3 hrs 25 min|1260 ft|[Link](https://hiiker.app/hikes/users/snake-woodland-circular--1030801537)|
+|Chrome Hill and the Dragons Back|9.1 mi|3 hrs 45 min|1621 ft|[Link](https://hiiker.app/hikes/users/chrome-hill-and-the-dragons-back--1077096043)|
 
 ## Others
 
