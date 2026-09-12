@@ -1,6 +1,10 @@
 # Hikes
 
-Information on hikes WIP.
+## Peak District
+
+|Hike|Distance|Duration|Elevation|Hiiker Link|
+|---|---|---|---|--|
+|Cromford to Middleton Top and back via Black Rocks|8.56 mi|3 hrs 17 min|1070ft|[Link](https://hiiker.app/hikes/users/cromford-to-middleton-top-and-back-via-black-rocks--1170639476)|
 
 ## Technical information
 
