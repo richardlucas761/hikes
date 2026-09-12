@@ -8,6 +8,12 @@
 |Castleton circular via Mam Tor and Lose Hill|6.6 mi|2 hrs 49 min|1398 ft|[Link](https://hiiker.app/hikes/users/castleton--205521623)|
 |Snake Woodland Hope Valley circular|8.6 mi|3 hrs 25 min|1260 ft|[Link](https://hiiker.app/hikes/users/snake-woodland-circular--1030801537)|
 
+## Others
+
+|Hike|Distance|Estimated Duration|Elevation gain|Hiiker Link|
+|---|---|---|---|--|
+|Southwell Circular|4.9 mi|1 hrs 39 min|148 ft|[Link](https://hiiker.app/hikes/users/southwell-circular--872369555)|
+
 ## Technical information
 
 Hike data collected using <https://opentracksapp.com> and then uploaded into <https://hiiker.app/> with additional details added.
