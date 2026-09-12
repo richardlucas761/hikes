@@ -9,6 +9,7 @@
 |Snake Woodland Hope Valley circular|8.6 mi|3 hrs 25 min|1260 ft|[Link](https://hiiker.app/hikes/users/snake-woodland-circular--1030801537)|
 |Chrome Hill and the Dragons Back|9.1 mi|3 hrs 45 min|1621 ft|[Link](https://hiiker.app/hikes/users/chrome-hill-and-the-dragons-back--1077096043)|
 |Matlock to Cocking Tor circular|8.3 mi|3 hrs 10 min|1010 ft|[Link](https://hiiker.app/hikes/users/matlock-to-cocking-tor-circular--1941309161)|
+|Matlock Half Skyline|10.6 mi|4 hrs 16 min|1690 ft|[Link](https://hiiker.app/hikes/users/matlock-half-skyline--1150557077)|
 
 ## Others
 
