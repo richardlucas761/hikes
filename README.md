@@ -19,6 +19,7 @@
 |---|---|---|---|--|
 |Southwell Circular|4.9 mi|1 hrs 39 min|148 ft|[Link](https://hiiker.app/hikes/users/southwell-circular--872369555)|
 |Ashbourne|4.1 mi|1 hrs 32 min|433 ft|[Link](https://hiiker.app/hikes/users/ashbourne--368402345)|
+|Ashbourne to Tissington|4.3 mi|1 hrs 34 min|377 ft|[Link](https://hiiker.app/hikes/users/ashbourne-to-tissington--97880325)|
 |Ruddington|5.1 mi|1 hrs 41 min|66 ft|[Link](https://hiiker.app/hikes/users/ruddington--234726389)|
 
 ## Technical information
