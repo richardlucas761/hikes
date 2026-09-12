@@ -20,6 +20,9 @@
 |Hike|Distance|Estimated Duration|Elevation gain|Hiiker Link|
 |---|---|---|---|--|
 |Keswick to YHA Helvellyn|11.9 mi|5 hrs 27 min|3189 ft|[Link](https://hiiker.app/hikes/users/keswick-to-yha-helvellyn--112064723)|
+|YHA Helvellyn to Grasmere|9.1 mi|3 hrs 51 min|1854 ft|[Link](https://hiiker.app/hikes/users/yha-helvellyn-to-grasmere--512793817)|
+|YHA Langdale to YHA Borrowdale|16.7 mi|7 hrs 55 mins|5049 ft|[Link](https://hiiker.app/hikes/users/yha-langdale-to-yha-borrowdale--1459959553)|
+|YHA Borrowdale to Keswick via Derwent Water|7.2 mi|2 hrs 28 min|341 ft|[Link](https://hiiker.app/hikes/users/yha-borrowdale-to-keswick-via-derwent-water--1938674330)|
 
 ## Others
 
