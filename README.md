@@ -16,6 +16,7 @@
 |Belper Circular|6.4 mi|2 hrs 30 min|850 ft|[Link](https://hiiker.app/hikes/users/belper-circular--1182592853)|
 |Thor's Cave from Wetton|8.8 mi|3 hrs 25 min|1129 ft|[Link](https://hiiker.app/hikes/users/thor-s-cave-from-wetton--1051270961)|
 |Hartington|8.5 mi|3 hrs 6 min|728 ft|[Link](https://hiiker.app/hikes/users/hartington--308249495)|
+|Youlgreave|8.7 mi|3 hrs 26 min|1260 ft|[Link](https://hiiker.app/hikes/users/youlgreave--162346393)|
 
 ## Lake District
 
