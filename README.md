@@ -17,6 +17,7 @@
 |Thor's Cave from Wetton|8.8 mi|3 hrs 25 min|1129 ft|[Link](https://hiiker.app/hikes/users/thor-s-cave-from-wetton--1051270961)|
 |Hartington|8.5 mi|3 hrs 6 min|728 ft|[Link](https://hiiker.app/hikes/users/hartington--308249495)|
 |Youlgreave|8.7 mi|3 hrs 26 min|1260 ft|[Link](https://hiiker.app/hikes/users/youlgreave--162346393)|
+|Carsington Water from Wirksworth|5.3 mi|2 hrs 9 min|860 ft|[Link](https://hiiker.app/hikes/users/carsington-water-from-wirksworth--1395560357)|
 
 ## Lake District
 
