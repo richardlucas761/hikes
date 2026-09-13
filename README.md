@@ -36,6 +36,7 @@
 |Ruddington|5.1 mi|1 hrs 41 min|66 ft|[Link](https://hiiker.app/hikes/users/ruddington--234726389)|
 |Dale Abbey|5.5 mi|2 hrs 1 min|522 ft|[Link](https://hiiker.app/hikes/users/dale-abbey--2132933952)|
 |Hawksmoore|5.1 mi|1 hrs 56 min|604 ft|[Link](https://hiiker.app/hikes/users/hawksmoore--1719678415)|
+|Trowell|5.2 mi|1 hrs 46 min|226 ft|[Link](https://hiiker.app/hikes/users/trowell--1333786394)|
 
 ## Technical information
 
