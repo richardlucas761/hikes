@@ -19,6 +19,7 @@
 |Youlgreave|8.7 mi|3 hrs 26 min|1260 ft|[Link](https://hiiker.app/hikes/users/youlgreave--162346393)|
 |Carsington Water from Wirksworth|5.3 mi|2 hrs 9 min|860 ft|[Link](https://hiiker.app/hikes/users/carsington-water-from-wirksworth--1395560357)|
 |Eyam|7.2 mi|3 hrs|1352 ft|[Link](https://hiiker.app/hikes/users/eyam--324509482)|
+|Monsal Head|8.7 mi|3 hrs 21 min|1070 ft|[Link](https://hiiker.app/hikes/users/monsal-head--1137708983)|
 
 ## Lake District
 
