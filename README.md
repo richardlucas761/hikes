@@ -18,6 +18,7 @@
 |Hartington|8.5 mi|3 hrs 6 min|728 ft|[Link](https://hiiker.app/hikes/users/hartington--308249495)|
 |Youlgreave|8.7 mi|3 hrs 26 min|1260 ft|[Link](https://hiiker.app/hikes/users/youlgreave--162346393)|
 |Carsington Water from Wirksworth|5.3 mi|2 hrs 9 min|860 ft|[Link](https://hiiker.app/hikes/users/carsington-water-from-wirksworth--1395560357)|
+|Eyam|7.2 mi|3 hrs|1352 ft|[Link](https://hiiker.app/hikes/users/eyam--324509482)|
 
 ## Lake District
 
