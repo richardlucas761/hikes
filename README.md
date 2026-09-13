@@ -15,6 +15,7 @@
 |Ilam|7.2 mi|2 hrs 44 min|810 ft|[Link](https://hiiker.app/hikes/users/ilam--645354822)|
 |Belper Circular|6.4 mi|2 hrs 30 min|850 ft|[Link](https://hiiker.app/hikes/users/belper-circular--1182592853)|
 |Thor's Cave from Wetton|8.8 mi|3 hrs 25 min|1129 ft|[Link](https://hiiker.app/hikes/users/thor-s-cave-from-wetton--1051270961)|
+|Hartington|8.5 mi|3 hrs 6 min|728 ft|[Link](https://hiiker.app/hikes/users/hartington--308249495)|
 
 ## Lake District
 
