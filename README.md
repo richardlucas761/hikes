@@ -16,6 +16,7 @@
 |Ilam|7.2 mi|2 hrs 44 min|810 ft|[Link](https://hiiker.app/hikes/users/ilam--645354822)|
 |Matlock Half Skyline|10.6 mi|4 hrs 16 min|1690 ft|[Link](https://hiiker.app/hikes/users/matlock-half-skyline--1150557077)|
 |Matlock to Cocking Tor circular|8.3 mi|3 hrs 10 min|1010 ft|[Link](https://hiiker.app/hikes/users/matlock-to-cocking-tor-circular--1941309161)|
+|Minninglow, Harboro Rocks, Grangemill & Aldwark|10.3 mi|3 hrs 43 min|804ft|[Link](https://hiiker.app/hikes/users/minninglow-harboro-rocks-grangemill-aldwark--1749056211)|
 |Monsal Head|8.7 mi|3 hrs 21 min|1070 ft|[Link](https://hiiker.app/hikes/users/monsal-head--1137708983)|
 |Snake Woodland Hope Valley circular|8.6 mi|3 hrs 25 min|1260 ft|[Link](https://hiiker.app/hikes/users/snake-woodland-circular--1030801537)|
 |Thor's Cave from Wetton|8.8 mi|3 hrs 25 min|1129 ft|[Link](https://hiiker.app/hikes/users/thor-s-cave-from-wetton--1051270961)|
